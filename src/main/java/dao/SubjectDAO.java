@@ -14,4 +14,3 @@ public interface SubjectDAO {
     public Collection<Subject> findSubjectName(String nameSubject)throws DaoException;
     public Collection<Subject> readAllSubject()throws DaoException;
 }
-//
